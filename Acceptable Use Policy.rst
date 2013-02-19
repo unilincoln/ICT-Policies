@@ -5,9 +5,21 @@ University of Lincoln Information Systems Acceptable Use Policy
 .. sectnum::
    :start: 0
 
-.. contents:: Contents
+------------
+Front Matter
+------------
 
-----------------
+Imprint
+-------
+
+===============  ============================
+Author           Mark N R Smith, ICT Services
+Approved         D Cook
+Current Version  2.01
+Issue Date       13.06.2012
+Review Date      11.05.2013
+===============  ============================
+
 Revision History
 ----------------
 
@@ -27,6 +39,8 @@ Version  Date      Author(s)             Notes on Revisions
 2.00     11.05.12  Mark Smith            Version 2 issued
 2.01     13.06.12  Mark Smith            Added research ethics committee to 4.1.10, corrected section numbers and reissued.
 =======  ========  ====================  ==================
+
+.. contents:: Contents
 
 ------------
 Introduction

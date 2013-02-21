@@ -30,10 +30,10 @@ Version  Date      Author(s)             Notes on Revisions
 1.1      15.10.09  Mark Smith            Added unintentional email clause & clarified investigation & monitoring provision.
 1.2      30.11.09  Mark Smith, Mike Day  Further investigation and monitoring clarification.
 1.3      11.12.09  Mark Smith            Typo and section 4 privacy paragraph.
-1.4      10.06.10  Mark Smith            Added PCI=DSS requirements.
+1.4      10.06.10  Mark Smith            Added PCI-DSS requirements.
 1.5      27.07.11  Mark Smith            Data Protection and Mobile improvements
-1.51     21.09.11  Mark Smith            Comments from Ann=Marie Noble
-1.52     22.09.11  Mark Smith            Further comments from Ann=Marie Noble
+1.51     21.09.11  Mark Smith            Comments from Ann-Marie Noble
+1.52     22.09.11  Mark Smith            Further comments from Ann-Marie Noble
 1.53     03.10.11  Mark Smith            ICT Security Group Comments
 1.54     15.12.11  Mark Smith            Discussions with LH
 2.00     11.05.12  Mark Smith            Version 2 issued

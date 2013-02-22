@@ -12,13 +12,14 @@ Front Matter
 Imprint
 -------
 
-===============  ============================
+===============  ===============================
 Author           Mark N R Smith, ICT Services
 Approved         D Cook
 Current Version  2.01
 Issue Date       13.06.2012
 Review Date      11.05.2013
-===============  ============================
+Licence          Copyright University of Lincoln
+===============  ===============================
 
 Revision History
 ----------------

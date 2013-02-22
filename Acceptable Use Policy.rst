@@ -82,9 +82,9 @@ The objectives of the policy are:
 Help with this Policy
 ---------------------
 
-Guidance and clarification about the interpretation or any other aspect of this policy is available through the ICT Service Desk that can be contacted on x6500 or helpdesk@lincoln.ac.uk.
+Guidance and clarification about the interpretation or any other aspect of this policy is available through the ICT Service Desk that can be contacted on 01522 886500 or helpdesk@lincoln.ac.uk.
 
-If you feel that your particular requirements for use of ICT Resources have not been properly addressed by this policy please contact the ICT Service Desk on x6500. When difficult issues arise, particularly with academic requirements, they may be referred to the appropriate University ethics committee.
+If you feel that your particular requirements for use of ICT Resources have not been properly addressed by this policy please contact the ICT Service Desk on 01522 886500. When difficult issues arise, particularly with academic requirements, they may be referred to the appropriate University ethics committee.
 
 -----
 Scope
@@ -160,7 +160,7 @@ When using ICT Resources users are expected to comply with the letter and the sp
 
    a. Bank account details or similar financial information (e.g. bank account numbers);
 
-   If you need help or clarification you must seek appropriate advice from your supervisor/line manager or the ICT Service Desk (x6500 or helpdesk@lincoln.ac.uk).
+   If you need help or clarification you must seek appropriate advice from your supervisor/line manager or the ICT Service Desk (01522 886500 or helpdesk@lincoln.ac.uk).
 
    Any staff or students who may be involved in research, professional practice, or other activities that requires them to process, or have access to personal data as defined within the data protection policy, confidential data (either relating to the University of Lincoln, or its partners), or material that is illegal, indecent, obscene, pornographic, related to terrorism, related to extreme political views, or may be considered offensive, must first refer the requested activity to the research ethics committee, or other appropriate authority within the University.
 
@@ -169,8 +169,8 @@ When using ICT Resources users are expected to comply with the letter and the sp
 #. Not to use another user’s identity or otherwise disguise their identity when using any ICT Resource.
 #. You must not use an ICT Resource for any unauthorised commercial purpose.
 #. External organisations or users that contract to abide by this policy agree to ensure that their partners and subcontractors also contract to abide by this policy as a condition of their partners or subcontractors using ICT Resources covered by this policy.
-#. If you require changes to an ICT Resource, such as changing its location, you must consult the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk.
-#. If you do not consider yourself competent using the ICT resource you must seek appropriate advice e.g. the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk.
+#. If you require changes to an ICT Resource, such as changing its location, you must consult the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk.
+#. If you do not consider yourself competent using the ICT resource you must seek appropriate advice e.g. the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk.
 
 Disclaimer
 ----------
@@ -217,9 +217,9 @@ The University’s email resources must not be used for:
 #. Sending unsolicited email ("spam"), chain letters or any form of unauthorised or unsolicited content using University email resources.
 #. Sending unsolicited email ("spam") to a large number of recipients without authorisation e.g. sending to email groups, such as faculties or departments that the sender is not a member of, or sending to all students or all staff. (Contact the Communications Department or ICT to send to all staff or all students or to use the "Daily Alert" service for this type of communication.)
 #. Impersonate or otherwise disguise identity ("spoof") when using University email resources.
-#. When sending Personal or Confidential information (see 3.1.10 for definition) by email externally (i.e. not to an address with a "@lincoln.ac.uk" suffix) you must have authorisation from your supervisor or line manager and it must be strongly encrypted (the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk can advise on this). The password must be transmitted to the recipient by an alternative method (e.g. by telephone).
+#. When sending Personal or Confidential information (see 3.1.10 for definition) by email externally (i.e. not to an address with a "@lincoln.ac.uk" suffix) you must have authorisation from your supervisor or line manager and it must be strongly encrypted (the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk can advise on this). The password must be transmitted to the recipient by an alternative method (e.g. by telephone).
 #. Sending Personal or Confidential information (see 3.1.10 for definition) without properly assessing the risks involved.
-#. If the information is sent externally (see 4.2.11 above), relates to many individuals or contains Sensitive Personal information or is sent to many people then it must be encrypted. The encryption password must be transmitted to the email recipient by an alternative method (e.g. by telephone). The ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk can advise on this.
+#. If the information is sent externally (see 4.2.11 above), relates to many individuals or contains Sensitive Personal information or is sent to many people then it must be encrypted. The encryption password must be transmitted to the email recipient by an alternative method (e.g. by telephone). The ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk can advise on this.
 
 ------------------------------------------
 Software, Services - Applications and Data
@@ -297,10 +297,10 @@ It is unacceptable to use the University Internet connection or University netwo
 #. View, make, publish or post images, text or materials that are or might be considered as, discriminatory, offensive, abusive, racist or sexist when the context is a personal attack or might be considered as harassment.
 #. View, make, publish or post images, text or material that contravene University Regulations or brings, or may bring, the University into disrepute.
 #. Upload, download, link, embed or otherwise transmit commercial software or any copyrighted materials without permission unless this is covered or permitted under a commercial, licence or other such agreement. 
-#. Download any software, data or other material without implementing effective virus protection measures.  The University provides virus protection software to authorised users free of charge (contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information).
+#. Download any software, data or other material without implementing effective virus protection measures.  The University provides virus protection software to authorised users free of charge (contact the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk for more information).
 #. Intentionally interfere with the normal operation of the network, including the propagation of computer viruses or sustained high volume network traffic that substantially hinders others in their use of the network.
 #. Monitor network traffic or contents, or scan devices connected to the network without written authorisation from the Head of ICT Services.
-#. Upload to the Internet or 'cloud' based storage (e.g. Dropbox) Personal or Confidential information without authorisation from your supervisor or line manager AND without ensuring it is strongly encrypted (the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk can advise on this).
+#. Upload to the Internet or 'cloud' based storage (e.g. Dropbox) Personal or Confidential information without authorisation from your supervisor or line manager AND without ensuring it is strongly encrypted (the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk can advise on this).
 
 ----------------------------------------------
 Mobiles, Laptops, Tablets and Portable Storage
@@ -318,7 +318,7 @@ These devices include laptops, mobile (smart) phones, tablets, iPods, PDAs, memo
 Use of Mobiles, Laptops, Tablets and Portable Storage
 -----------------------------------------------------
 
-#. Under this policy users of ICT Resources must scan any storage device connected to a University ICT resource with virus protection software before or immediately following connection. Users can contact the ICT Service Desk (x6500) for more information about how to do this.
+#. Under this policy users of ICT Resources must scan any storage device connected to a University ICT resource with virus protection software before or immediately following connection. Users can contact the ICT Service Desk (01522 886500) for more information about how to do this.
 #. Under this policy, users of portable devices (including all the devices mentioned in section 7 introduction) must never, under any circumstances, store or save Credit or Debit card numbers (see section 3.1.9 for definition) on this equipment.
 #. The copying of data to portable storage (including all the devices mentioned in section 7 introduction) is governed by different rules according to the sensitivity of the data defined by the UK Data Protection Act (1998), other legislation and government guidelines.
 
@@ -330,15 +330,15 @@ Use of Mobiles, Laptops, Tablets and Portable Storage
 
       * Copying Personal data has been authorised by the University Information Compliance Manager.
       * Copying the data has been authorised by your line or service manager/supervisor.
-      * It has been encrypted using strong encryption (the ICT Service Desk, x6500, can advise on this)
+      * It has been encrypted using strong encryption (the ICT Service Desk, 01522 886500, can advise on this)
 
       Data falling into the ‘Other Sensitive Data’ category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
 
       * Copying the data has been authorised by your line or service manager/supervisor.
-      * It has been encrypted using strong encryption (the ICT Service Desk, x6500, can advise on this)
+      * It has been encrypted using strong encryption (the ICT Service Desk, 01522 886500, can advise on this)
 
 #. When sending any media or storage device containing sensitive data by post or courier a tracked method must be used, in addition to the requirement to be strongly encrypted. The encryption password must be transmitted to the recipient by an alternative method (e.g. telephone).
-#. Email on portable devices, in particular mobile phones is frequently not secure. When accessing University email on portable devices users should ensure that emails and attachments are protected by a password. Emails containing Personal or Confidential data must be encrypted during transmission and storage (see 7.2.3 above). Please contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information.
+#. Email on portable devices, in particular mobile phones is frequently not secure. When accessing University email on portable devices users should ensure that emails and attachments are protected by a password. Emails containing Personal or Confidential data must be encrypted during transmission and storage (see 7.2.3 above). Please contact the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk for more information.
 
 ---------------------
 Remote Access Working
@@ -362,8 +362,8 @@ Under this policy users of ICT Resources must:
 #. Agree when using Remote Access using personal equipment (e.g. your own PC) from a remote location, it is used as though it is covered by this policy in all respects.
 #. Avoid using remote access working from public systems, such as Internet cafes (information, e.g. passwords, might be retained and therefore useable by others).
 #. Ensure that when using remote access working - it is not possible for other people to observe the screen.
-#. Take appropriate care of Personal or Confidential data by ensuring the data is properly protected in, and to and from, the remote environment. This means encrypting the personal or sensitive data using strong encryption. This could by using a Virtual Private Network (VPN), an encrypted email connection (e.g. https://email.lincoln.ac.uk) and file based encryption. Please contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information.
-#. Take appropriate care of Personal or Confidential data by ensuring the data is properly protected when using unsecured wireless connections or unsecured transfer methods (e.g. FTP or unsecured HTTP) in a remote environment. This means encrypting the Personal or Confidential data using strong encryption. This could by using a Virtual Private Network (VPN), an encrypted email connection (e.g. https://email.lincoln.ac.uk) and file based encryption. Please contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information.
+#. Take appropriate care of Personal or Confidential data by ensuring the data is properly protected in, and to and from, the remote environment. This means encrypting the personal or sensitive data using strong encryption. This could by using a Virtual Private Network (VPN), an encrypted email connection (e.g. https://email.lincoln.ac.uk) and file based encryption. Please contact the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk for more information.
+#. Take appropriate care of Personal or Confidential data by ensuring the data is properly protected when using unsecured wireless connections or unsecured transfer methods (e.g. FTP or unsecured HTTP) in a remote environment. This means encrypting the Personal or Confidential data using strong encryption. This could by using a Virtual Private Network (VPN), an encrypted email connection (e.g. https://email.lincoln.ac.uk) and file based encryption. Please contact the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk for more information.
 
 ----------
 Compliance
@@ -428,13 +428,13 @@ Reporting Policy Violations
 
 Violations of this policy can be reported to:
 
-* the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk;
+* the ICT Service Desk on 01522 886500 or helpdesk@lincoln.ac.uk;
 * abuse@lincoln.ac.uk – particularly for email issues;
 * infosec@lincoln.ac.uk – the University Information Security Manager.
 
 If a violations of this policy involves Personal data the University Data Protection Policy requires that the Data Security Breach Management Procedures be followed. Please contact the University Information Compliance Manager:
 
-* compliance@lincoln.ac.uk or x6154.
+* compliance@lincoln.ac.uk or 01522 886154.
 
 Consequences of Policy Violations
 ---------------------------------
@@ -476,7 +476,7 @@ Useful Contacts
 
 If you have any queries about this policy please contact:
 
-* the ICT Service Desk on x6500 (externally: 01522 886500) or helpdesk@lincoln.ac.uk;
+* the ICT Service Desk on 01522 886500 (or helpdesk@lincoln.ac.uk;
 * abuse@lincoln.ac.uk – particularly for email issues;
 * compliance@lincoln.ac.uk – particularly for data protection issues;
 * infosec@lincoln.ac.uk – the University Information Security Manager.

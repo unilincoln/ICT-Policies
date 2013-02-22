@@ -62,22 +62,23 @@ The policy is intended to protect the ICT assets of the University by adopting t
 
 Confidentiality:
     The prevention of unauthorised disclosure of information;
+
 Integrity:
     The prevention of corruption or unauthorised amendment or deletion of information;
 
 Availability:
     The prevention of unauthorised withholding of information or resources.
 
-This policy has been subjected to an Equality Impact Assessment. During the screening process it was judged to not to disproportionally affect any equality group. This is because the policy defines a protocol for everybody which outlines behaviour when using ICT resources. Therefore no further Equality Impact Assessment process is required.
+This policy has been subjected to an Equality Impact Assessment. During the screening process it was judged to not to disproportionally affect any equality group. This is because the policy defines a protocol for everybody which outlines behaviour when using ICT Resources. Therefore no further Equality Impact Assessment process is required.
 
 Policy Objectives
 -----------------
 
 The objectives of the policy are:
 
-* To ensure users have proper awareness and concern for the security of ICT resources and adequate appreciation of their responsibilities during its use;
+* To ensure users have proper awareness and concern for the security of ICT Resources and adequate appreciation of their responsibilities during its use;
 * To provide guidance for the acceptable use of ICT Resources;
-* To ensure that users are aware of their legal obligations when using ICT resources;
+* To ensure that users are aware of their legal obligations when using ICT Resources;
 * To ensure users are aware of their accountability and aware that failure to abide by this policy is a disciplinary matter which may have serious consequences under the terms of University Regulations, Contracts of Employment or other contracts or agreements. Ultimately, this could result in summary expulsion, dismissal or cancellation of contract or agreements.
 
 Help with this Policy
@@ -96,7 +97,7 @@ This section sets out what this Acceptable Use Policy covers.
 Who is covered by this policy?
 ------------------------------
 
-This policy applies to people, denoted as ‘users’ in this Policy, using the University of Lincoln ICT Resources in section 2.2, including, but not limited to:
+This policy applies to people, denoted as "users" in this Policy, using the University of Lincoln ICT Resources in section 2.2, including, but not limited to:
 
 * Students enrolled at the University;
 * Permanent staff employed by the University;
@@ -111,7 +112,7 @@ This policy applies to ICT Resources and systems made available for use by users
 
 * PCs including desktop PCs, Apple Macs or other Apple computers, laptop PCs and terminals;
 * Peripherals e.g. printers, copiers and scanners;
-* Mobile devices, including smartphones, tablets, iPods, PDAs (Personal Digital Assistants), telephones, mobiles and other ‘smart’ devices;
+* Mobile devices, including smartphones, tablets, iPods, PDAs (Personal Digital Assistants), telephones, mobiles and other 'smart' devices;
 * Networks with wired, wireless, dialup and/or Internet connections;
 * Internet services including the world wide web, blogs and wikis;
 * Email and other messaging, social networking or collaboration services e.g. blogs, chat, forums, Facebook, Twitter, YouTube, MySpace, bebo etc.;
@@ -135,7 +136,7 @@ When using ICT Resources users are expected to comply with the letter and the sp
 #. You must not engage in behaviour that damages or adversely affects any University ICT Resources or damages or adversely affects the ability of other users to use the University ICT Resource.
 #. You must not use any ICT Resource in a way that brings, or may bring, the University into disrepute.
 #. You must not compromise or risk compromising the security, confidentiality, availability or integrity of the University’s ICT Resources in any way whatsoever.
-#. You must not store or save Credit or Debit Card numbers on any University ICT Resource, including email, spreadsheets, any type of document, database or computer file. Credit or Debit card numbers mean any of the ‘long’, card/account number (PAN), the CVV number and the PIN number.
+#. You must not store or save Credit or Debit Card numbers on any University ICT Resource, including email, spreadsheets, any type of document, database or computer file. Credit or Debit card numbers mean any of the 'long', card/account number (PAN), the CVV number and the PIN.
 #. You must take appropriate care when using Personal or Confidential information and abide by the UK Data Protection Act (1998).
 
    *Personal data is defined as* data which identifies a living person and includes sensitive Personal data. Examples of Personal data include:
@@ -211,7 +212,7 @@ The University’s email resources must not be used for:
 #. Distributing or storing images, text or materials that are, or might be considered as, illegal, paedophilic or defamatory.
 #. Distributing or storing images, text or materials that are, or might be considered as, indecent, obscene, pornographic or of a terrorist nature unless you have a legitimate reason for doing so and have written authorisation from your academic supervisor or head of department.
 #. Distributing or storing images, text or materials that are, or might be considered as, discriminatory, offensive, abusive, sexist or racist when the context is a personal attack or might be considered as harassment.
-#. Knowingly introducing malicious software, such as a virus or similar threat, into the University ICT Resources or the ICT resources of any other person or organisation.
+#. Knowingly introducing malicious software, such as a virus or similar threat, into the University ICT Resources or the ICT Resources of any other person or organisation.
 #. Sending or deliberately receiving Credit or Debit Card numbers (see 3.1.9 for definition). If you do receive an email containing a Credit or Debit card number you must delete it immediately.
 #. Sending emails that are unrelated to the business of the University (except for limited personal use mentioned in the introduction above) or for personal gain.
 #. Sending commercial material or software or any copyrighted material belonging to parties outside of the University, or belonging to the University itself, without legitimate permission from the owner.
@@ -314,7 +315,7 @@ The University recognises that portable devices play an ever increasing role in 
 
 These devices include laptops, mobile (smart) phones, tablets, iPods, PDAs, memory sticks and cards, CDs, DVDs, Blu-ray Discs and other types of storage media available or become available in the future.
 
-**Note:** University staff using laptops, memory sticks, tablets or other portable media or devices to store Personal or Confidential data (see section 3.1.10 for definition) MUST ensure they are strongly encrypted. See section 7.2.3 below for full details.
+**Note:** University staff using laptops, memory sticks, tablets or other portable media or devices to store Personal or Confidential data (see section 3.1.10 for definition) *must* ensure they are strongly encrypted. See section 7.2.3 below for full details.
 
 Use of Mobiles, Laptops, Tablets and Portable Storage
 -----------------------------------------------------
@@ -327,13 +328,13 @@ Use of Mobiles, Laptops, Tablets and Portable Storage
 
    a. Personal or Confidential data as defined in section 3.1.10.
 
-      Data falling into the "Personal or Confidential data" category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
+      Data falling into the "Personal or Confidential Data" category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
 
       * Copying Personal data has been authorised by the University Information Compliance Manager.
       * Copying the data has been authorised by your line or service manager/supervisor.
       * It has been encrypted using strong encryption (the ICT Service Desk, 01522 886500, can advise on this)
 
-      Data falling into the ‘Other Sensitive Data’ category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
+      Data falling into the "Other Sensitive Data" category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
 
       * Copying the data has been authorised by your line or service manager/supervisor.
       * It has been encrypted using strong encryption (the ICT Service Desk, 01522 886500, can advise on this)
@@ -373,9 +374,9 @@ Compliance
 Applicable Compliance Legislation
 ---------------------------------
 
-The use of University ICT resources is governed by English law.
+The use of University ICT Resources is governed by English law.
 
-Some legislation covering use of University ICT resources and this policy is:
+Some legislation covering use of University ICT Resources and this policy is:
 
 * Data Protection Act – 1998
 * Computer Misuse Act – 1990
@@ -416,7 +417,7 @@ Any investigation or monitoring is subject to the following safeguards:
 
 Under normal circumstances the individual(s) concerned will be notified in advance, unless, in the opinion of the authoriser, the notification would make it difficult to prevent or detect wrongdoing.
 
-Statistics and data relating to the use of University ICT resources may be made available to third parties, such as the police, in accordance with English law. This may occur when a lawful request for this information is received or when the University is legally obliged to, or it is appropriate to do so for other reasons.
+Statistics and data relating to the use of University ICT Resources may be made available to third parties, such as the police, in accordance with English law. This may occur when a lawful request for this information is received or when the University is legally obliged to, or it is appropriate to do so for other reasons.
 
 The University also reserves the right to demand that passwords and decryption keys, where used, be made available, so that it is able to fulfil its right of access to material when a lawful request for this information is received or when the University is legally obliged to.
 

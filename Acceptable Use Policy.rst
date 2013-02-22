@@ -135,7 +135,7 @@ When using ICT Resources users are expected to comply with the letter and the sp
 #. You must not engage in behaviour that damages or adversely affects any University ICT Resources or damages or adversely affects the ability of other users to use the University ICT Resource.
 #. You must not use any ICT Resource in a way that brings, or may bring, the University into disrepute.
 #. You must not compromise or risk compromising the security, confidentiality, availability or integrity of the University’s ICT Resources in any way whatsoever.
-#. You must not store or save Credit or Debit Card numbers on any University ICT Resource, including email, spreadsheets, any type of document, database or computer file. Credit or Debit card numbers mean any of the 'long', card/account number (PAN), the CVV number and the PIN number.
+#. You must not store or save Credit or Debit Card numbers on any University ICT Resource, including email, spreadsheets, any type of document, database or computer file. Credit or Debit card numbers mean any of the 'long', card/account number (PAN), the CVV number and the PIN.
 #. You must take appropriate care when using Personal or Confidential information and abide by the UK Data Protection Act (1998).
 
    *Personal data is defined as* data which identifies a living person and includes sensitive Personal data. Examples of Personal data include:

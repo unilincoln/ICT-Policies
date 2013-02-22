@@ -61,22 +61,23 @@ The policy is intended to protect the ICT assets of the University by adopting t
 
 Confidentiality:
     The prevention of unauthorised disclosure of information;
+
 Integrity:
     The prevention of corruption or unauthorised amendment or deletion of information;
 
 Availability:
     The prevention of unauthorised withholding of information or resources.
 
-This policy has been subjected to an Equality Impact Assessment. During the screening process it was judged to not to disproportionally affect any equality group. This is because the policy defines a protocol for everybody which outlines behaviour when using ICT resources. Therefore no further Equality Impact Assessment process is required.
+This policy has been subjected to an Equality Impact Assessment. During the screening process it was judged to not to disproportionally affect any equality group. This is because the policy defines a protocol for everybody which outlines behaviour when using ICT Resources. Therefore no further Equality Impact Assessment process is required.
 
 Policy Objectives
 -----------------
 
 The objectives of the policy are:
 
-* To ensure users have proper awareness and concern for the security of ICT resources and adequate appreciation of their responsibilities during its use;
+* To ensure users have proper awareness and concern for the security of ICT Resources and adequate appreciation of their responsibilities during its use;
 * To provide guidance for the acceptable use of ICT Resources;
-* To ensure that users are aware of their legal obligations when using ICT resources;
+* To ensure that users are aware of their legal obligations when using ICT Resources;
 * To ensure users are aware of their accountability and aware that failure to abide by this policy is a disciplinary matter which may have serious consequences under the terms of University Regulations, Contracts of Employment or other contracts or agreements. Ultimately, this could result in summary expulsion, dismissal or cancellation of contract or agreements.
 
 Help with this Policy
@@ -210,7 +211,7 @@ The University’s email resources must not be used for:
 #. Distributing or storing images, text or materials that are, or might be considered as, illegal, paedophilic or defamatory.
 #. Distributing or storing images, text or materials that are, or might be considered as, indecent, obscene, pornographic or of a terrorist nature unless you have a legitimate reason for doing so and have written authorisation from your academic supervisor or head of department.
 #. Distributing or storing images, text or materials that are, or might be considered as, discriminatory, offensive, abusive, sexist or racist when the context is a personal attack or might be considered as harassment.
-#. Knowingly introducing malicious software, such as a virus or similar threat, into the University ICT Resources or the ICT resources of any other person or organisation.
+#. Knowingly introducing malicious software, such as a virus or similar threat, into the University ICT Resources or the ICT Resources of any other person or organisation.
 #. Sending or deliberately receiving Credit or Debit Card numbers (see 3.1.9 for definition). If you do receive an email containing a Credit or Debit card number you must delete it immediately.
 #. Sending emails that are unrelated to the business of the University (except for limited personal use mentioned in the introduction above) or for personal gain.
 #. Sending commercial material or software or any copyrighted material belonging to parties outside of the University, or belonging to the University itself, without legitimate permission from the owner.
@@ -372,9 +373,9 @@ Compliance
 Applicable Compliance Legislation
 ---------------------------------
 
-The use of University ICT resources is governed by English law.
+The use of University ICT Resources is governed by English law.
 
-Some legislation covering use of University ICT resources and this policy is:
+Some legislation covering use of University ICT Resources and this policy is:
 
 * Data Protection Act – 1998
 * Computer Misuse Act – 1990
@@ -415,7 +416,7 @@ Any investigation or monitoring is subject to the following safeguards:
 
 Under normal circumstances the individual(s) concerned will be notified in advance, unless, in the opinion of the authoriser, the notification would make it difficult to prevent or detect wrongdoing.
 
-Statistics and data relating to the use of University ICT resources may be made available to third parties, such as the police, in accordance with English law. This may occur when a lawful request for this information is received or when the University is legally obliged to, or it is appropriate to do so for other reasons.
+Statistics and data relating to the use of University ICT Resources may be made available to third parties, such as the police, in accordance with English law. This may occur when a lawful request for this information is received or when the University is legally obliged to, or it is appropriate to do so for other reasons.
 
 The University also reserves the right to demand that passwords and decryption keys, where used, be made available, so that it is able to fulfil its right of access to material when a lawful request for this information is received or when the University is legally obliged to.
 

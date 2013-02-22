@@ -96,7 +96,7 @@ This section sets out what this Acceptable Use Policy covers.
 Who is covered by this policy?
 ------------------------------
 
-This policy applies to people, denoted as ‘users’ in this Policy, using the University of Lincoln ICT Resources in section 2.2, including, but not limited to:
+This policy applies to people, denoted as "users" in this Policy, using the University of Lincoln ICT Resources in section 2.2, including, but not limited to:
 
 * Students enrolled at the University;
 * Permanent staff employed by the University;
@@ -111,7 +111,7 @@ This policy applies to ICT Resources and systems made available for use by users
 
 * PCs including desktop PCs, Apple Macs or other Apple computers, laptop PCs and terminals;
 * Peripherals e.g. printers, copiers and scanners;
-* Mobile devices, including smartphones, tablets, iPods, PDAs (Personal Digital Assistants), telephones, mobiles and other ‘smart’ devices;
+* Mobile devices, including smartphones, tablets, iPods, PDAs (Personal Digital Assistants), telephones, mobiles and other 'smart' devices;
 * Networks with wired, wireless, dialup and/or Internet connections;
 * Internet services including the world wide web, blogs and wikis;
 * Email and other messaging, social networking or collaboration services e.g. blogs, chat, forums, Facebook, Twitter, YouTube, MySpace, bebo etc.;
@@ -135,7 +135,7 @@ When using ICT Resources users are expected to comply with the letter and the sp
 #. You must not engage in behaviour that damages or adversely affects any University ICT Resources or damages or adversely affects the ability of other users to use the University ICT Resource.
 #. You must not use any ICT Resource in a way that brings, or may bring, the University into disrepute.
 #. You must not compromise or risk compromising the security, confidentiality, availability or integrity of the University’s ICT Resources in any way whatsoever.
-#. You must not store or save Credit or Debit Card numbers on any University ICT Resource, including email, spreadsheets, any type of document, database or computer file. Credit or Debit card numbers mean any of the ‘long’, card/account number (PAN), the CVV number and the PIN number.
+#. You must not store or save Credit or Debit Card numbers on any University ICT Resource, including email, spreadsheets, any type of document, database or computer file. Credit or Debit card numbers mean any of the 'long', card/account number (PAN), the CVV number and the PIN number.
 #. You must take appropriate care when using Personal or Confidential information and abide by the UK Data Protection Act (1998).
 
    *Personal data is defined as* data which identifies a living person and includes sensitive Personal data. Examples of Personal data include:
@@ -327,13 +327,13 @@ Use of Mobiles, Laptops, Tablets and Portable Storage
 
    a. Personal or Confidential data as defined in section 3.1.10.
 
-      Data falling into the "Personal or Confidential data" category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
+      Data falling into the "Personal or Confidential Data" category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
 
       * Copying Personal data has been authorised by the University Information Compliance Manager.
       * Copying the data has been authorised by your line or service manager/supervisor.
       * It has been encrypted using strong encryption (the ICT Service Desk, 01522 886500, can advise on this)
 
-      Data falling into the ‘Other Sensitive Data’ category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
+      Data falling into the "Other Sensitive Data" category must never be copied to portable storage under any circumstances except when ALL of the following requirements have been met:
 
       * Copying the data has been authorised by your line or service manager/supervisor.
       * It has been encrypted using strong encryption (the ICT Service Desk, 01522 886500, can advise on this)

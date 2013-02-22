@@ -273,7 +273,7 @@ Internet and Networks
 Introduction
 ------------
 
-The University promotes and encourages the use of the Internet, including Web 2.0 applications such as Facebook, Twitter, YouTube and blogs, as an important means of communication. However, misuse of these facilities can have a negative impact upon the work and reputation of the University.
+The University promotes and encourages the use of the Internet, including applications such as Facebook, Twitter, YouTube and blogs, as an important means of communication. However, misuse of these facilities can have a negative impact upon the work and reputation of the University.
 
 Users may access Internet facilities for the conduct of University related business. The use of the Internet is subject to this policy as well as all relevant laws and other University Policies and Regulations.
 
@@ -459,7 +459,7 @@ Other documents that may be relevant to this policy are:
 * `University Data Protection Policy <http://lncn.eu/giuw>`_ (internal only)
 * `University of Lincoln Policy on Intellectual Property Rights - Final <http://lncn.eu/bjn>`_
 * `University of Lincoln web site legal notices <http://www.lincoln.ac.uk/legal>`_
-* `Web 2.0 Usage Guidelines <http://lncn.eu/ks26>`_.
+* `'Web 2.0' Usage Guidelines <http://lncn.eu/ks26>`_.
 * `Web Notice and Takedown Policy Guidelines <http://www.lincoln.ac.uk/termsconditions/ict/>`_
 * Staff Mobile Phone Policy (TBA)
 

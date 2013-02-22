@@ -314,7 +314,7 @@ The University recognises that portable devices play an ever increasing role in 
 
 These devices include laptops, mobile (smart) phones, tablets, iPods, PDAs, memory sticks and cards, CDs, DVDs, Blu-ray Discs and other types of storage media available or become available in the future.
 
-**Note:** University staff using laptops, memory sticks, tablets or other portable media or devices to store Personal or Confidential data (see section 3.1.10 for definition) MUST ensure they are strongly encrypted. See section 7.2.3 below for full details.
+**Note:** University staff using laptops, memory sticks, tablets or other portable media or devices to store Personal or Confidential data (see section 3.1.10 for definition) *must* ensure they are strongly encrypted. See section 7.2.3 below for full details.
 
 Use of Mobiles, Laptops, Tablets and Portable Storage
 -----------------------------------------------------

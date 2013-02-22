@@ -111,7 +111,7 @@ This policy applies to ICT Resources and systems made available for use by users
 * PCs including desktop PCs, Apple Macs or other Apple computers, laptop PCs and terminals;
 * Peripherals e.g. printers, copiers and scanners;
 * Mobile devices, including smartphones, tablets, iPods, PDAs (Personal Digital Assistants), telephones, mobiles and other ‘smart’ devices;
-* Networks with wired, wireless, dialup and/or internet connections;
+* Networks with wired, wireless, dialup and/or Internet connections;
 * Internet services including the world wide web, blogs and wikis;
 * Email and other messaging, social networking or collaboration services e.g. blogs, chat, forums, Facebook, Twitter, YouTube, MySpace, bebo etc.;
 * Application software, services and data including databases;
@@ -196,7 +196,7 @@ Similarly personal use of email should not restrict the use of email by other le
 
 The contents of personal emails are private and their contents are not investigated or monitored except in the limited and exceptional circumstances set out in section 9.2. It is recommended that personal email be marked personal in the subject line and stored in a separate folder.
 
-The nature of the internet means that email is inherently insecure and users should assume that email information is not secure or protected while in transit (unless it is encrypted using an appropriate method).
+The nature of the Internet means that email is inherently insecure and users should assume that email information is not secure or protected while in transit (unless it is encrypted using an appropriate method).
 
 The University provides anti-virus and spam (unsolicited email) filtering services as a matter of course to users of the email service. Whilst efforts are made to keep these filtering services effective and up-to-date, the University can provide no guarantee that they will be effective against all viruses or spam.
 
@@ -273,17 +273,17 @@ Internet and Networks
 Introduction
 ------------
 
-The University promotes and encourages the use of the internet, including Web 2.0 applications such as Facebook, Twitter, YouTube and blogs, as an important means of communication. However, misuse of these facilities can have a negative impact upon the work and reputation of the University.
+The University promotes and encourages the use of the Internet, including Web 2.0 applications such as Facebook, Twitter, YouTube and blogs, as an important means of communication. However, misuse of these facilities can have a negative impact upon the work and reputation of the University.
 
-Users may access internet facilities for the conduct of University related business. The use of the internet is subject to this policy as well as all relevant laws and other University Policies and Regulations.
+Users may access Internet facilities for the conduct of University related business. The use of the Internet is subject to this policy as well as all relevant laws and other University Policies and Regulations.
 
 Users should be aware of the difficulties of taking appropriate care of their own and other peoples Personal or Confidential information when using the Internet. In some situations information may inadvertently or unintentionally become public.
 
-Although most people use the internet for University business, reasonable and sensible personal use of the internet is permitted as long as it does not disrupt or distract the user from the conduct of University business (e.g. due to volume, frequency or time expended) or restrict the use of resources to other legitimate users.
+Although most people use the Internet for University business, reasonable and sensible personal use of the Internet is permitted as long as it does not disrupt or distract the user from the conduct of University business (e.g. due to volume, frequency or time expended) or restrict the use of resources to other legitimate users.
 
-The provision of internet material via computer networks to users is controlled and monitored (as set out in section 9.2) in line with the goals and objectives of the University.
+The provision of Internet material via computer networks to users is controlled and monitored (as set out in section 9.2) in line with the goals and objectives of the University.
 
-The University internet connection is provided by JANET which connects the UK’s education and research organisations to each other, as well as to the rest of the world through links to the global Internet. JANET and this policy require that users abide by the prevailing `JANET Acceptable Use Policy`_.
+The University Internet connection is provided by JANET which connects the UK’s education and research organisations to each other, as well as to the rest of the world through links to the global Internet. JANET and this policy require that users abide by the prevailing `JANET Acceptable Use Policy`_.
 
 .. _`JANET Acceptable Use Policy`: http://www.ja.net/company/policies/aup.html
 
@@ -300,7 +300,7 @@ It is unacceptable to use the University Internet connection or University netwo
 #. Download any software, data or other material without implementing effective virus protection measures.  The University provides virus protection software to authorised users free of charge (contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information).
 #. Intentionally interfere with the normal operation of the network, including the propagation of computer viruses or sustained high volume network traffic that substantially hinders others in their use of the network.
 #. Monitor network traffic or contents, or scan devices connected to the network without written authorisation from the Head of ICT Services.
-#. Upload to the internet or 'cloud' based storage (e.g. Dropbox) Personal or Confidential information without authorisation from your supervisor or line manager AND without ensuring it is strongly encrypted (the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk can advise on this).
+#. Upload to the Internet or 'cloud' based storage (e.g. Dropbox) Personal or Confidential information without authorisation from your supervisor or line manager AND without ensuring it is strongly encrypted (the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk can advise on this).
 
 ----------------------------------------------
 Mobiles, Laptops, Tablets and Portable Storage
@@ -360,7 +360,7 @@ Under this policy users of ICT Resources must:
 #. Obtain proper authorisation from your line or service manager/supervisor for allowing remote access working.
 #. Only use the ICT supplied access mechanisms and connection details from ICT Services when remote access working.
 #. Agree when using Remote Access using personal equipment (e.g. your own PC) from a remote location, it is used as though it is covered by this policy in all respects.
-#. Avoid using remote access working from public systems, such as internet cafes (information, e.g. passwords, might be retained and therefore useable by others).
+#. Avoid using remote access working from public systems, such as Internet cafes (information, e.g. passwords, might be retained and therefore useable by others).
 #. Ensure that when using remote access working - it is not possible for other people to observe the screen.
 #. Take appropriate care of Personal or Confidential data by ensuring the data is properly protected in, and to and from, the remote environment. This means encrypting the personal or sensitive data using strong encryption. This could by using a Virtual Private Network (VPN), an encrypted email connection (e.g. https://email.lincoln.ac.uk) and file based encryption. Please contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information.
 #. Take appropriate care of Personal or Confidential data by ensuring the data is properly protected when using unsecured wireless connections or unsecured transfer methods (e.g. FTP or unsecured HTTP) in a remote environment. This means encrypting the Personal or Confidential data using strong encryption. This could by using a Virtual Private Network (VPN), an encrypted email connection (e.g. https://email.lincoln.ac.uk) and file based encryption. Please contact the ICT Service Desk on x6500 or helpdesk@lincoln.ac.uk for more information.
